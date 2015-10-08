@@ -9,6 +9,8 @@
   <modules>
   	<module>WSsoa1</module>
   	<module>WSsoa1-Client</module>
+  	<module>WSsoa2</module>
+  	<module>WSsoa2-Client</module>
   </modules>
   <build>
 		<plugins>
